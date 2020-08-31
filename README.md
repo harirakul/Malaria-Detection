@@ -17,14 +17,8 @@ Dataset of 27558 images of cells with labels from the Lister Hill National Cente
 ## Testing Images
 Images if you'd like to try the classifier but have no cell samples.
 
+Parasitized:
 ![image](https://user-images.githubusercontent.com/58019082/91673117-56a1a300-eae7-11ea-8956-e595565e8417.png)
 
-
+Uninfected:
 ![image](https://user-images.githubusercontent.com/58019082/91673127-6faa5400-eae7-11ea-8792-728cb3e5f4b7.png)
-
-| Image | 
-![image](https://user-images.githubusercontent.com/58019082/91673117-56a1a300-eae7-11ea-8956-e595565e8417.png) | ![image](https://user-images.githubusercontent.com/58019082/91673127-6faa5400-eae7-11ea-8792-728cb3e5f4b7.png) |
-| :---: | :---: | :---: |
-| Label | Parasitized | Uninfected |
-
-
