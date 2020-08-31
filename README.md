@@ -7,5 +7,6 @@ Website: https://malaria-diagnosis.herokuapp.com/
 ## Purpose
 Predicts if a cell is parasitized by malaria with a 95% accuracy.
 
-
+## Data
+27558 images of cells with labels from the Lister Hill National Center for Biomedical Communications of the National Institutes of Health (LHNCBC)
 
