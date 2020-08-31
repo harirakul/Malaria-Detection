@@ -22,8 +22,9 @@ Images if you'd like to try the classifier but have no cell samples.
 
 ![image](https://user-images.githubusercontent.com/58019082/91673127-6faa5400-eae7-11ea-8792-728cb3e5f4b7.png)
 
-| Attempt | #1 | #2 |
+| Image | 
+![image](https://user-images.githubusercontent.com/58019082/91673117-56a1a300-eae7-11ea-8956-e595565e8417.png) | ![image](https://user-images.githubusercontent.com/58019082/91673127-6faa5400-eae7-11ea-8792-728cb3e5f4b7.png) |
 | :---: | :---: | :---: |
-| Seconds | 301 | 283 |
+| Label | Parasitized | Uninfected |
 
 
