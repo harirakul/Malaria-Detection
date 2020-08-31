@@ -1,0 +1,7 @@
+tensorflow
+numpy
+Pillow
+flask
+werkzeug
+dominate
+gunicorn
